@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](Life.jpg)
 
 # Lin.H.M
 
